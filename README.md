@@ -3,5 +3,4 @@ Created with CodeSandbox
 
 You can try it <a href='https://9gjg5r.csb.app/'>here</a>
 
-![image](https://github.com/VelkovIv/ToDo_List_React/assets/114020789/3c43b2a9-5cfe-4187-9678-ecc30cc1bb57)
-
+![image](https://github.com/VelkovIv/ToDo_List_React/assets/114020789/1744fcee-6ad3-4246-bfd1-8a8a0a1e3777)
